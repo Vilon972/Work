@@ -1,0 +1,34 @@
+
+
+.title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("./pattern.jpeg")
+}
+
+.titlee {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.color1 {
+  background-color: mediumspringgreen;
+}
+
+.color2 {
+  background-color: lightcoral;
+}
+
+.color3 {
+  background-color: skyblue;
+}
+
+.yolo {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
